@@ -1,0 +1,4 @@
+Iniciar app: npm run dev
+Executar migrations: npx prisma migrate dev
+Abrir prisma studio: npx prisma studio
+Gerar diagramas MER: npx prisma generate
